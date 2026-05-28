@@ -1,0 +1,23 @@
+# Database
+data/booking.db
+*.db
+*.sqlite
+
+# System
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+
+# IDE
+.vscode/
+.idea/
+*.code-workspace
+
+# PHP
+*.php~
+.phpunit.result.cache
+
+# Logs
+*.log
